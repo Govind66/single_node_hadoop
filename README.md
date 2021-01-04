@@ -215,6 +215,5 @@ Draws from
  * http://www.alexjf.net/blog/distributed-systems/hadoop-yarn-installation-definitive-guide/
  * https://help.ubuntu.com/community/CheckingYourUbuntuVersion
  * http://www.michael-noll.com/tutorials/running-hadoop-on-ubuntu-linux-multi-node-cluster/
- * https://www.youtube.com/watch?v=3rb111Z9TVI
 
-By Curran Kelleher March 2015
+By Govinda Tathe March 2015
